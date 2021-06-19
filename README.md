@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**How to reach me?**
+
+- Email: rangareddy.avula@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ranga-reddy-big-data-developer/ 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rangareddy&show_icons=true&hide_border=false).
