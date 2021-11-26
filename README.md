@@ -9,10 +9,11 @@
 </p>
 
 <p align="center"> 
-	<img src="https://profile-counter.glitch.me/{rangareddy}/count.svg" alt="Visitor Count" /> 
+   <img src="https://profile-counter.glitch.me/{rangareddy}/count.svg" alt="Visitor Count" /> 
 </p>
 
 ## Github Stats:
+
 <p align='center'>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rangareddy&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false&hide_border=false" />
 
@@ -20,6 +21,13 @@
 </p>
 
 ## Github Streaks:
+
 <p align='center'>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rangareddy&hide_border=true" />
+</p>
+
+## Github Profile Views:
+
+<p align='center'>
+   <img src="https://komarev.com/ghpvc/?username=rangareddy&color=green&style=plastic" />
 </p>
