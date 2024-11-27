@@ -1,18 +1,35 @@
-# Hi 👋, I'm Ranga Reddy
+<h2> Hi 👋, This is Ranga Reddy.</h2>
 
-I am a ***Data Engineer*** 👨🏽‍💻from ***India***.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-You can talk to me about - 
+- 🎓 &nbsp; MCA student @Sri Krishnadevaraya University
+- 👨🏽‍💻 Data Engineer/Solution Engineer/Backline Engineer/Fullstack Developer from India.
+- 💼 &nbsp; Prev @ Cloudera, Dell, Mindtree and ITApp.
 
-✨ Apache Spark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐍 Apache Hive
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-📜 Apache Kafka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠 Apache HBase
-
-🎸Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚽️Scala
-
-🎾Spring&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🗻Hibernate <br/>
-
-And more ⛺️🌱🏋🏽‍♂️!
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=scala)
+- 💼 &nbsp;
+  ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=ApacheSpark)
+  ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=ApacheHadoop)
+  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=ApacheKafka)
+  ![Hudi](https://img.shields.io/badge/-Hudi-333333?style=flat&logo=ApacheHudi)
+  ![Iceberg](https://img.shields.io/badge/-Iceberg-333333?style=flat&logo=ApacheIceberg)
+  ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=ApacheHive)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![HBase](https://img.shields.io/badge/-HBase-333333?style=flat&logo=ApacheHBase)
+  ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=ApacheAirflow)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
+- 🔧 &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 
 
 **Connect with me:**
