@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; MCA student @Sri Krishnadevaraya University
-- 👨🏽‍💻 Data Engineer/Solution Engineer/Backline Engineer/Fullstack Developer from India.
+- 👨🏽‍💻 &nbsp; Data Engineer/Solution Engineer/Backline Engineer/Fullstack Developer from India.
 - 💼 &nbsp; Prev @ Cloudera, Dell, Mindtree and ITApp.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
