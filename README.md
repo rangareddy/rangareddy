@@ -89,7 +89,7 @@ the whole point of them.
   <a href="https://www.linkedin.com/in/ranga-reddy-big-data-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
   <a href="https://stackoverflow.com/users/1918962/ranga-reddy"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://rangareddy.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://twitter.com/rangareddy1988"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/avula_ranga"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:rangareddy.avula@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
