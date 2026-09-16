@@ -96,8 +96,9 @@ the whole point of them.
 ---
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rangareddy&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangareddy&layout=compact&theme=midnight-purple&hide_border=true" />
+  <a href="https://github.com/rangareddy?tab=followers"><img src="https://img.shields.io/github/followers/rangareddy?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117" /></a>
+  <a href="https://github.com/rangareddy?tab=repositories"><img src="https://img.shields.io/github/stars/rangareddy?label=Stars&style=for-the-badge&color=1f6feb&labelColor=0d1117" /></a>
+  <a href="https://rangareddy.github.io/"><img src="https://img.shields.io/github/last-commit/rangareddy/rangareddy.github.io?label=Blog%20updated&style=for-the-badge&color=1f6feb&labelColor=0d1117" /></a>
 </p>
 
 <p align="center">
